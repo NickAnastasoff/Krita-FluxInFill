@@ -23,14 +23,11 @@
 
 ## 📥 Installation
 
-1. Download or clone this repository.
-2. Copy the plugin files into Krita’s `pykrita` plugins directory.
-   - Typically found at:
-     - Windows: `C:\Users\<YourName>\AppData\Roaming\krita\pykrita\`
-     - Linux: `~/.local/share/krita/pykrita/`
-     - MacOS: `~/Library/Application Support/Krita/pykrita/`
-3. Restart Krita.
-4. Go to `Settings > Dockers` and enable **Flux Inpaint**.
+1. Download the flux_infill.zip file
+2. Open Krita and go to Scripts > Import Python plug-in from file
+3. Upload the zip (Do not extract first!)
+4. Restart Krita.
+5. Go to `Settings > Dockers` and enable **Flux Inpaint**.
 
 ---
 
